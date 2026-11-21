@@ -1,0 +1,1 @@
+{"description":"A fast, dependency-free drop-in for csv-reader 1.0.0 (make.fun bounty csv-reader-speed-01-run-20261121)","exports":{".":"./solve.js"},"license":"MIT","main":"solve.js","name":"csv-reader-fast","type":"module","version":"1.0.0"}
